@@ -211,3 +211,6 @@ Ghostscript is offered as a full free version with all features and updates incl
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Unlock the power of PostScript and PDF files today! Download **Ghostscript** now and experience the difference!
+
+---
+**Last updated:** 2026-09-17 04:19:47 UTC
