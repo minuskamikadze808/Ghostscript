@@ -213,4 +213,4 @@ Ghostscript is offered as a full free version with all features and updates incl
 Unlock the power of PostScript and PDF files today! Download **Ghostscript** now and experience the difference!
 
 ---
-**Last updated:** 2026-11-11 09:03:28 UTC
+**Last updated:** 2026-11-11 17:46:46 UTC
